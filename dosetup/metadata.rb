@@ -1,0 +1,7 @@
+name 'dosetup'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures dosetup'
+long_description 'Installs/Configures dosetup'
+version '0.1.0'
