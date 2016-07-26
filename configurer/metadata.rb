@@ -6,7 +6,7 @@ description 'Installs/Configures configurer'
 long_description 'Installs/Configures configurer'
 version '0.1.0
 
-supports 'windows'
+supports   "windows"
 
-depends 'iis'
+depends "iis"
 
